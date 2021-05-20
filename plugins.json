@@ -2,7 +2,7 @@
   {
     "id": "Ericsson.DisableAppConfigPlugin",
     "description": "An example of disable  spinnaker deck application config plugin.",
-    "provider": "https://arm.seli.gic.ericsson.se/ui/repos/tree/General/proj-ews-generic-local/ADScamp",
+    "provider": "",
     "releases": [
       {
         "version": "1.0.0",
